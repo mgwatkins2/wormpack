@@ -7,5 +7,6 @@
     "custom.goodbye": {"category": "master", "sounds": ["custom/goodbye"]},
     "custom.got-pictures": {"category": "master", "sounds": ["custom/got-pictures"]},
     "custom.welcome": {"category": "master", "sounds": ["custom/welcome"]},
-    "custom.mail": {"category": "master", "sounds": ["custom/mail"]}
+    "custom.mail": {"category": "master", "sounds": ["custom/mail"]},
+    "custom.worm": {"category": "master", "sounds": ["custom/worm"]}
 }
