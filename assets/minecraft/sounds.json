@@ -1,0 +1,11 @@
+{
+    "custom.alert": {"category": "master", "sounds": ["custom/alert"]},
+    "custom.buddy-in": {"category": "master", "sounds": ["custom/buddy-in"]},
+    "custom.buddy-out": {"category": "master", "sounds": ["custom/buddy-out"]},
+    "custom.drop": {"category": "master", "sounds": ["custom/drop"]},
+    "custom.files-done": {"category": "master", "sounds": ["custom/files-done"]},
+    "custom.goodbye": {"category": "master", "sounds": ["custom/goodbye"]},
+    "custom.got-pictures": {"category": "master", "sounds": ["custom/got-pictures"]},
+    "custom.welcome": {"category": "master", "sounds": ["custom/welcome"]},
+    "custom.mail": {"category": "master", "sounds": ["custom/mail"]}
+}
